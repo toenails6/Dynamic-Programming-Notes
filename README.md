@@ -1,2 +1,2 @@
-# Dynamic_Programming_Notes
+# Dynamic Programming Notes
 Notes and examples on Dynamic Programming. 
